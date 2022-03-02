@@ -1,2 +1,4 @@
 Gestion user
 gestion produit
+gestion catégorie
+user 
